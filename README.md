@@ -6,7 +6,7 @@ This project contains two custom-trained object detection models using Ultralyti
 
 ## Requirements
 
-- Python 3.10+
+- Python
 - torch
 - ultralytics
 - opencv-python
