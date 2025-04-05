@@ -1,0 +1,12 @@
+path: "C:/Users/Anthony/Desktop/University/Year 4 - Winter/Computer Vision/Road-Sign-Detection-Project"
+train: road-sign/train/images
+val: road-sign/valid/images
+test: road-sign/test/images
+
+nc: 4
+names: ["trafficlight", "stop", "speedlimit",  "crosswalk"]
+
+# @misc{make ml,
+# title={Road Signs Dataset},
+# url={https://makeml.app/datasets/road-signs},
+# journal={Make ML}}

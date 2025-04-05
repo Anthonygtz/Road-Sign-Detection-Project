@@ -1,0 +1,9 @@
+path: "C:/Users/Anthony/Desktop/University/Year 4 - Winter/Computer Vision/Road-Sign-Detection-Project"
+train: vehicle/train/images
+val: vehicle/valid/images
+test: vehicle/test/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
+
+# https://www.kaggle.com/datasets/abdallahwagih/cars-detection/data
